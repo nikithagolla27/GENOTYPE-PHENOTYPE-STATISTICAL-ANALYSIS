@@ -1,4 +1,5 @@
 Genotype–Phenotype Statistical Analysis
+
 Project Overview
 This project focuses on the statistical analysis of a simulated genotype–phenotype dataset to study the relationship between genetic variations and observable traits.
 The project applies foundational data science techniques such as data manipulation, descriptive statistics, probability analysis, and hypothesis testing using Python.
